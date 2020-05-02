@@ -1,14 +1,14 @@
-# Memory-Game
-這個遊戲是類似日本神經衰弱的翻牌遊戲<br>
-裡面的卡片皆為台灣特色的小吃及食物<br>
-與普通神經衰弱最不同的點在於
-有五種食物的分數特別高
-翻開時也會有特別的特效及音效<br>
-開始畫面
+# Memory-Game 
+## ゲーム紹介
+このゲームは日本の神経衰弱みたいのフロップゲームです<br>
+普通な神経衰弱と最も異なる点は<br>
+中のカードはすべて台湾のスナックと食べ物です<br>
+一部のカードは特に高いスコアを持っています<br>
+裏返すと、特殊効果や効果音もあります<br>
+
+## 下記図面をご参考ください
 ![Alt text](https://i.imgur.com/ddezvzE.jpg "Start Menu")
-操作教學介面
-![Alt text](https://i.imgur.com/oibI5C9.jpg)
-![Alt text](https://i.imgur.com/RNYzyud.jpg)
-遊戲畫面
-![Alt text](https://i.imgur.com/1OHMiCa.jpg)
-![Alt text](https://i.imgur.com/sYIYfZT.jpg)
+![Alt text](https://i.imgur.com/oibI5C9.jpg "Help Menu")
+![Alt text](https://i.imgur.com/RNYzyud.jpg "Help Menu")
+![Alt text](https://i.imgur.com/1OHMiCa.jpg "Game Scene")
+![Alt text](https://i.imgur.com/sYIYfZT.jpg "Game Scene")
